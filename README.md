@@ -1,16 +1,17 @@
-## Hi there 👋
+# Peter Azuolas
 
-<!--
-**petethered/petethered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build real-time systems, and for the last 18 months I've built them AI-first.
 
-Here are some ideas to get you started:
+I direct coding agents (Claude Code) through implementation and own the architecture, the specs and the review.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The pinned repos show how that works in practice:
+
+- **[superplanner](https://github.com/petethered/superplanner)**: CLAUDE.md, specs and plans, and a tsc + test + build gate before every commit. Live at [effectivepathplanner.com](https://effectivepathplanner.com/)
+- **[moduletracker](https://github.com/petethered/moduletracker)**: CLAUDE.md, agent Skills, specs and plans, Vitest unit tests and Playwright e2e. Live at [moduletracker.com](https://moduletracker.com/)
+- **[focus-hours](https://github.com/petethered/focus-hours)**: a dependency-free Chrome extension with unit-tested logic modules.
+
+Most of my AI work is private: [RecentMusic.com](https://recentmusic.com) and [RecentAudiobook.com](https://recentaudiobook.com) run large-scale catalog ingestion and LLM classification, with a self-hosted model as the fallback.
+
+Before that: CTO at PANDA Interactive, SportsCastr and SportsBlog.com, and first-named inventor on 8 US patents in low-latency streaming and real-time sync.
+
+[azuolas.com](https://azuolas.com) · [LinkedIn](https://www.linkedin.com/in/peter-azuolas)
