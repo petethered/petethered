@@ -7,6 +7,7 @@ I direct coding agents (Claude Code) through implementation and own the architec
 The pinned repos show how that works in practice:
 
 - **[superplanner](https://github.com/petethered/superplanner)**: CLAUDE.md, specs and plans, and a tsc + test + build gate before every commit. Live at [effectivepathplanner.com](https://effectivepathplanner.com/)
+- **[cprogress](https://github.com/petethered/cprogress)**: a Rust drop-in for macOS cp with a progress bar, built from a written spec with Claude Code and gated by differential tests against /bin/cp.
 - **[moduletracker](https://github.com/petethered/moduletracker)**: CLAUDE.md, agent Skills, specs and plans, Vitest unit tests and Playwright e2e. Live at [moduletracker.com](https://moduletracker.com/)
 - **[focus-hours](https://github.com/petethered/focus-hours)**: a dependency-free Chrome extension with unit-tested logic modules.
 
